@@ -19,6 +19,10 @@ Sử dụng thuật toán tìm kiếm để đưa bảng số từ trạng thái
   - In ra từng bước di chuyển để dẫn đến kết quả.
 - **Thư mục:** Akt và A*.ipynb
 - **Demo:**
+<img width="237" height="397" alt="image" src="https://github.com/user-attachments/assets/d05fcece-8f87-4fb9-b942-82df492999f5" />
+<img width="136" height="463" alt="image" src="https://github.com/user-attachments/assets/6198d674-3a1a-4b6e-867a-eefd029911b0" />
+<img width="132" height="701" alt="image" src="https://github.com/user-attachments/assets/c9842543-4813-4b28-9680-7a2546c74778" />
+<img width="246" height="103" alt="image" src="https://github.com/user-attachments/assets/7ef33b0d-57df-4dd9-8d16-9472ae92d1ac" />
 
 <img width="1208" height="699" alt="image" src="https://github.com/user-attachments/assets/92c06eaa-9c68-47fc-b786-850107c4b073" />
 
